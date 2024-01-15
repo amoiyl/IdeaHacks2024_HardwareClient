@@ -1,4 +1,4 @@
-# IDEA Hacks 2024 Server
+# IDEA Hacks 2024 
 # Inspiration
 
 Due to doctor burnout and natural biases, particularly in a post COVID-19 era, patients may not always receive a consistent quality of care. Additionally, at-home telehealth services are currently limited by cost and accessibility. Current solutions aren't nearly as accessible and affordable as necessary for the larger audience, as they often relying on expensive devices and trained staff, or are confined to processes that are not easily adaptable to a range of conditions (e.g. elderly patients, visual impairments). This issue is compounded in rural areas, typically where veterans reside, where healthcare is just as important as in the big cities, if not more. Additionally, miscommunication between patient and physician due to language barriers further limits the connections between medical professionals and patients. As in-person medical facilities create enviornments that may be a source of infection, telemedicine reduces disease spread, resulting in a smoother flow of patients through the healthcare system.
